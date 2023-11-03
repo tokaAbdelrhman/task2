@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding:0px;
+   
+   
+   
+}
+
+.big{
+    background-color: #D1E3FF;
+    display:flex;
+   
+
+}
+.big .first{
+    width:600px;
+    margin-top: 250px;
+    margin-left: 50px;
+   
+}
+.big .first h2{
+    color:blue;
+    margin-bottom: 20px;
+    width:140px;
+}
+.big .first p{
+    color:gray;
+   
+}
+.big .first input{
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: orange;
+    border:none;
+    outline: none;
+    padding:10px 30px;
+    color:white;
+}
+.big .second{
+    
+    margin-top: 100px;
+   
+}
+.last{
+    margin-top: -60px;
+    margin-left: 400px;
+    padding:20px;
+}
+.last img{
+
+    width:200px;
+    background-color: #FFFFFF;
+    border: 1px black;
+  
+}
+.last .sp {background-color:orange;}
